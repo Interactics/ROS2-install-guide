@@ -1,6 +1,9 @@
 # ROS2-install-guide
 
+## Environment
 
+- Ubuntu 18.04
+- ROS2 Dashing
 
 # Install 
 
@@ -63,6 +66,8 @@
 ## step 4. env setting
 
     source /opt/ros/dashing/setup.bash
+    ## add above line to ~/.bashrc
+    ## if you use zsh, add source /opt/ros/dashing/setup.zsh to ~/.zshrc
 
     sudo apt install -y python3-pip
     pip3 install -U argcomplete
