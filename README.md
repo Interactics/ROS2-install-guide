@@ -65,7 +65,7 @@ pinkwink at https://pinkwink.kr/1284
     sudo apt install ros-dashing-ros-base
     
     
-# step 4. env setting
+## step 4. env setting
 
     source /opt/ros/dashing/setup.bash
 
@@ -73,12 +73,12 @@ pinkwink at https://pinkwink.kr/1284
     pip3 install -U argcomplete
 
 
-# install test
+## install test
 
     ros2 run demo_nodes_cpp talker
     ros2 run demo_nodes_py listener
 
 
-# Uninstall
+## Uninstall
 
     sudo apt remove ros-dashing-* && sudo apt autoremove
