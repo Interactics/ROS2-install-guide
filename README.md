@@ -1,10 +1,5 @@
 # ROS2-install-guide
 
-# Reference 
-
-Official Guide https://index.ros.org/doc/ros2/Installation/Dashing/Linux-Install-Debians/
-표윤석박사님 at https://cafe.naver.com/openrt/23846 
-pinkwink at https://pinkwink.kr/1284
 
 
 # Install 
@@ -82,3 +77,14 @@ pinkwink at https://pinkwink.kr/1284
 ## Uninstall
 
     sudo apt remove ros-dashing-* && sudo apt autoremove
+    
+    
+    
+# Reference 
+
+Official Guide https://index.ros.org/doc/ros2/Installation/Dashing/Linux-Install-Debians/
+
+표윤석박사님 at https://cafe.naver.com/openrt/23846 
+
+pinkwink at https://pinkwink.kr/1284
+
